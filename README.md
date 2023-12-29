@@ -19,3 +19,6 @@
 
 - Without Swings? Run this --> [Source Code](gpacse.java)
 - Database - [MySQL](gpa.sql)
+<img src="https://github.com/harshiniakshaya/GPA-CALCULATOR-APPLICATION/assets/149646981/120a13f6-9478-4780-a6de-891d1d533c28" height="467.52">
+
+
