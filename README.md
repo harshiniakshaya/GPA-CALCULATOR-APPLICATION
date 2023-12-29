@@ -2,6 +2,7 @@
 - The "GPA Calculator" is a Java-based desktop application, created as a mini project to exclusively meet the needs of Computer Science students. This specialized tool simplifies GPA calculations, offering a user-friendly interface using Java Swing for the frontend and Java with JDBC for the backend, integrating a SQL database for data storage.
 
 - Using Swings - [Source Code](gpacseswings.java)
+- Database - [MySQL](gpa.sql)
 <img src="https://github.com/harshiniakshaya/GPA-CALCULATOR-APPLICATION/assets/149646981/0164dfb8-4ec4-4b49-a5af-53ea31bc44dd" width="664.32" height="467.52">
 
 <img src="https://github.com/harshiniakshaya/GPA-CALCULATOR-APPLICATION/assets/149646981/1fcdb539-f307-4767-8c2f-4f6a34416bfd" width="664.32" height="467.52">
@@ -17,3 +18,4 @@
 <img src="https://github.com/harshiniakshaya/GPA-CALCULATOR-APPLICATION/assets/149646981/a9112d80-9abc-494f-aae2-5a0c1e7659cd" height="467.52">
 
 - Without Swings? Run this --> [Source Code](gpacse.java)
+- Database - [MySQL](gpa.sql)
